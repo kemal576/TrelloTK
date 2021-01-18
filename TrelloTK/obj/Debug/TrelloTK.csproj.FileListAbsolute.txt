@@ -1,0 +1,152 @@
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\tamer\source\repos\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\tamer\Desktop\TrelloTKV1.3\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formTahmin.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formTahmin.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTKV1.4\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formTahmin.resources
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\tamer\Desktop\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formTahmin.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTKv1.8\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formTahmin.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTKv2.0\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formTahmin.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTK\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formTahmin.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTK_2\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formTahmin.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe.config
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\bin\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\bin\Debug\TrelloTK.pdb
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csprojAssemblyReference.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formHome.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formCardDetails.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.formTahmin.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.Properties.Resources.resources
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.GenerateResource.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.csproj.CopyComplete
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.exe
+C:\Users\kemal\Downloads\Compressed\TrelloTK_v2.3_+_TEST_+_Ödev_4\TrelloTK_v2.3 + TEST + Ödev 4\TrelloTK_v2.3 + TEST\TrelloTK_v2.3 + TEST\TrelloTK\TrelloTK\obj\Debug\TrelloTK.pdb
